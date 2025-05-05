@@ -1,6 +1,6 @@
 streamlit
-pdfplumber
-cv2
+pymupdf
+opencv-python
+pillow
 numpy
-io
-Image
+pandas
