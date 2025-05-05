@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+cv2
+numpy
+io
+Image
